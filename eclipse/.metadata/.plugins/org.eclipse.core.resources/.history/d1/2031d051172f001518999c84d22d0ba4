@@ -1,0 +1,12 @@
+package com.Chaosfox13.ModTest.reference;
+
+public class Reference 
+{
+	//a place for useful constants
+	public static final String MOD_ID = "ModTest";
+	public static final String MOD_NAME ="Mod Test";
+	public static final String FINGERPRINT="@FINGERPRINT@";
+	public static final String VERSION="@VERSION@";
+	public static final String SERVER_PROXY_CLASS="com.Chaosfox13.ModTest.proxy.ServerProxy";
+	public static final String CLIENT_PROXY_CLASS="com.Chaosfox13.ModTest.proxy.ClientProxy";
+}
